@@ -1,2 +1,2 @@
 # starfish
-my first repositoy
+In line one I coded in python, using the print function.
